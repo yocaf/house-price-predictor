@@ -1,0 +1,10 @@
+house-env/
+mlruns/
+mlartifacts/
+mlflow.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+train.csv
+test.csv
+sample_submission.csv
